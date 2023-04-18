@@ -1,2 +1,2 @@
 # cadastroJava
-Criando JavaScript com a tela de cadastro.
+Criando uma tela de cadastro com JavaScript.
