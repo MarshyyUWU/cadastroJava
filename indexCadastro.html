@@ -14,14 +14,24 @@
             <!--TELA DE CADASTRO-->
             <h1>Cadastre-se</h1>
 
+        <fieldset>
+                <legend>Preencha Email e Senha </legend>
+                
             <label>Email</label><br>
             <input type="email" id="CadastroEmail" placeholder="Digite seu email" class="form-control"><br>
 
-            <label>Senha</label><br>
-            <input type="password" id="CadastroSenha" placeholder="Digite sua senha" class="form-control" minlength="8" required type="CadastroSenha"><br>
+            <br>
+            <form class="pure-form">
+                <label>Senha</label><br>
+                    <input type="password" placeholder="Senha" id="password" required>
+                    <input type="password" placeholder="Confirme Senha" id="confirm_password" required>
             
-            <label>Confirme sua senha</label><br>
-            <input type="password" id="ConfirmeSenha" placeholder="Digite sua senha novamente" class="form-control"><br>
+                    <button type="submit" class="pure-button pure-button-primary">Confirmar</button>
+            </form>
+        </fieldset>
+
+        <fieldset>
+            <legend>Informações pessoais</legend>
 
             <label>DDD e Telefone</label><br>
             <input type="telefone" id="number" placeholder="Digite seu número" class="form-control"><br>
@@ -31,6 +41,11 @@
 
             <label>CPF ou CNPJ</label><br>
             <input type="CPF_CNPJ" id="CPF_CNPJ" placeholder="Digite seu CPF ou CNPJ" class="form-control"><br>
+
+        </fieldset> 
+
+        <fieldset>
+                <legend>Preencha as informações do seu Endereço</legend>
 
             <label>CEP</label><br>
             <input type="CEP" id="CEP" placeholder="Digite seu CEP" class="form-control"><br>
@@ -46,6 +61,9 @@
 
             <label>Rua</label><br>
             <input type="Rua" id="adress" placeholder="Digite sua rua" class="form-control"><br>
+
+            </fieldset>
+
 
             <!--Verificando variaveis que estão no JavaScript-->
             <button onclick="Verificar()"><a href="">Cadastrar</a></button><br>

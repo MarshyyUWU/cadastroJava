@@ -41,7 +41,7 @@ input{
    border-radius: 10px;
 }
 /*Imael*/
-label{
+label, legend{
     font-family: Candara;
     color:rgb(145, 143, 156);
 }
