@@ -11,19 +11,23 @@
 <body>
     <div id="login">
         <nav>
+            <!--TELA DE CADASTRO-->
             <h1>Cadastre-se</h1>
 
             <label>Email</label><br>
             <input type="email" id="CadastroEmail" placeholder="Digite seu email" class="form-control"><br>
 
             <label>Senha</label><br>
-            <input type="password" id="CadastroSenha" placeholder="Digite sua senha" class="form-control"><br>
+            <input type="password" id="CadastroSenha" placeholder="Digite sua senha" class="form-control" minlength="8" required type="CadastroSenha"><br>
+            
+            <label>Confirme sua senha</label><br>
+            <input type="password" id="ConfirmeSenha" placeholder="Digite sua senha novamente" class="form-control"><br>
 
             <label>DDD e Telefone</label><br>
             <input type="telefone" id="number" placeholder="Digite seu número" class="form-control"><br>
 
             <label>Data de Nascimento</label><br>
-            <input type="BirthDate" id="BirthDate" placeholder="Digite sua Data de Nascimento" class="form-control"><br>
+            <input type="datetime" id="BirthDate" placeholder="Digite sua Data de Nascimento" class="form-control"><br>
 
             <label>CPF ou CNPJ</label><br>
             <input type="CPF_CNPJ" id="CPF_CNPJ" placeholder="Digite seu CPF ou CNPJ" class="form-control"><br>
@@ -43,8 +47,8 @@
             <label>Rua</label><br>
             <input type="Rua" id="adress" placeholder="Digite sua rua" class="form-control"><br>
 
-            <button 
-            onclick="Verificar()"><a href="">Cadastrar</a></button><br>
+            <!--Verificando variaveis que estão no JavaScript-->
+            <button onclick="Verificar()"><a href="">Cadastrar</a></button><br>
             <a href="" id="esqueceu">Esqueceu a senha?</a>
 
         </nav>
