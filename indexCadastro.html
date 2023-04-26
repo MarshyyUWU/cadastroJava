@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -8,59 +9,58 @@
     <link rel='stylesheet' type='text/css' media='screen' href='StyleCadastro.css'>
     <script src='cadastro.js'></script>
 </head>
+
 <body>
     <div id="login">
         <nav>
             <!--TELA DE CADASTRO-->
             <h1>Cadastre-se</h1>
 
-        <fieldset>
+            <fieldset>
                 <legend>Preencha Email e Senha </legend>
-                
-            <label>Email</label><br>
-            <input type="email" id="CadastroEmail" placeholder="Digite seu email" class="form-control"><br>
 
-            <br>
-            <form class="pure-form">
-                <label>Senha</label><br>
+                <label>Email</label><br>
+                <input type="email" id="CadastroEmail" placeholder="Digite seu email" class="form-control"><br>
+                <br>
+                <form class="pure-form">
+                    <label>Senha</label><br>
                     <input type="password" placeholder="Senha" id="password" required>
                     <input type="password" placeholder="Confirme Senha" id="confirm_password" required>
-            
-                    <button type="submit" class="pure-button pure-button-primary">Confirmar</button>
-            </form>
-        </fieldset>
+                </form>
+            </fieldset>
 
-        <fieldset>
-            <legend>Informações pessoais</legend>
+            <fieldset>
+                <legend>Informações pessoais</legend>
 
-            <label>DDD e Telefone</label><br>
-            <input type="telefone" id="number" placeholder="Digite seu número" class="form-control"><br>
+                <label>DDD e Telefone</label><br>
+                <input type="number" id="number" placeholder="Digite seu número" class="form-control"><br>
 
-            <label>Data de Nascimento</label><br>
-            <input type="datetime" id="BirthDate" placeholder="Digite sua Data de Nascimento" class="form-control"><br>
+                <label>Data de Nascimento</label><br>
+                <input type="date" id="BirthDate" placeholder="Digite sua Data de Nascimento" class="form-control"><br>
 
-            <label>CPF ou CNPJ</label><br>
-            <input type="CPF_CNPJ" id="CPF_CNPJ" placeholder="Digite seu CPF ou CNPJ" class="form-control"><br>
+                <label>CPF ou CNPJ</label><br>
+                <input type="number" id="CPF_CNPJ" placeholder="Digite seu CPF ou CNPJ" class="form-control"><br>
 
-        </fieldset> 
+            </fieldset>
 
-        <fieldset>
+            <fieldset>
                 <legend>Preencha as informações do seu Endereço</legend>
 
-            <label>CEP</label><br>
-            <input type="CEP" id="CEP" placeholder="Digite seu CEP" class="form-control"><br>
+                <label>CEP</label><br>
+                <input type="number" id="CEP" placeholder="Digite seu CEP" class="form-control"><br>
 
-            <label>Complemento</label><br>
-            <input type="Complement" id="adress3" placeholder="Digite o número da sua casa ou apartamento" class="form-control"><br>
+                <label>Complemento</label><br>
+                <input type="text" id="adress3" placeholder="Digite o número da sua casa ou apartamento"
+                    class="form-control"><br>
 
-            <label>Cidade</label><br>
-            <input type="City" id="City" placeholder="Digite sua cidade" class="form-control"><br><br>
+                <label>Cidade</label><br>
+                <input type="text" id="City" placeholder="Digite sua cidade" class="form-control"><br><br>
 
-            <label>Bairro</label><br>
-            <input type="Bairro" id="adress2" placeholder="Digite seu Bairro" class="form-control"><br>
+                <label>Bairro</label><br>
+                <input type="text" id="adress2" placeholder="Digite seu Bairro" class="form-control"><br>
 
-            <label>Rua</label><br>
-            <input type="Rua" id="adress" placeholder="Digite sua rua" class="form-control"><br>
+                <label>Rua</label><br>
+                <input type="number" id="adress" placeholder="Digite sua rua" class="form-control"><br>
 
             </fieldset>
 
@@ -71,4 +71,5 @@
 
         </nav>
 </body>
+
 </html>
