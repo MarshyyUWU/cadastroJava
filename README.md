@@ -1,10 +1,10 @@
 # Índice
 
-[Projeto](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#projeto---criando-tela-de-cadastro-com-javascript)
-[Descrição] 
-[Funcionalidade]
+[Projeto](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#projeto---criando-tela-de-cadastro-com-javascript)  
+[Descrição](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#%EF%B8%8Fdescri%C3%A7%C3%A3o)  
+[Funcionalidade]  
 [Tecnologias utilizadas]  
-[Fontes consultoras]
+[Fontes consultoras]  
 [Autores]  
 
 # 💕Projeto - Criando tela de Cadastro com JavaScript
