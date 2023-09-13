@@ -1,23 +1,3 @@
-# cadastroJava
-Criando uma tela de cadastro com JavaScript.
-
-
-# Instalação
-
-Para a instalação dos arquivo, crie uma pasta e depois ponha todos os arquivos dentro dela. Depois, se algum erro ocorrer ao abrir os arquivos, tenha certeza que todos os arquivos estão conectados conforme seus nomes. 
-Como por exemplo, não mudar nomes de arquivos e verificando se estão todos conectados ao index e um ao outro.
-
-# Construído com:
-
-- Visual Studio Code 1.80.2 V8
-
-# Autores
-
-- Marsh - Desenvolvedor - EU!
-
-# Obrigado!
-Espero que eu tenha entendido tudo certinho de como produzir um README bom.
-----------------------------------------------------------------------------------------------------------------------------------------------
 # Índice
 
 [Projeto]  
@@ -30,7 +10,8 @@ Espero que eu tenha entendido tudo certinho de como produzir um README bom.
 # 💕Projeto - Criando tela de Cadastro com JavaScript
 
 ## ❤️Descrição
-Esse é um projeto para saber como funciona toda a comentação de JavaScript.
+
+Estou documentando trabalhos para contar como nota dia 15/09. Aonde preciso documentar READMES nos repositórios já existentes.
 
 ## 😘Funcionalidade
 
@@ -57,4 +38,4 @@ Como a imagem logo acima no README. --------------------------------------------
 
 ## 😍Autores
 * [Marsh](https://github.com/MarshyyUWU)
-* [mdo](https://twitter.com/mdo)
+
