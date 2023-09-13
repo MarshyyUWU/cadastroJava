@@ -3,7 +3,7 @@
 [Projeto](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#projeto---criando-tela-de-cadastro-com-javascript)  
 [Descrição](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#%EF%B8%8Fdescri%C3%A7%C3%A3o)  
 [Funcionalidade](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#funcionalidade)  
-[Tecnologias utilizadas]  
+[Tecnologias utilizadas](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#tecnologias-utilizadas)  
 [Fontes consultoras]  
 [Autores]  
 
