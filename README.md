@@ -4,7 +4,7 @@
 [Descrição](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#%EF%B8%8Fdescri%C3%A7%C3%A3o)  
 [Funcionalidade](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#funcionalidade)  
 [Tecnologias utilizadas](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#tecnologias-utilizadas)  
-[Fontes consultoras]  
+[Fontes consultoras](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#fontes-consultadas)   
 [Autores]  
 
 # 💕Projeto - Criando tela de Cadastro com JavaScript
