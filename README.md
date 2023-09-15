@@ -9,7 +9,7 @@
 
 # 💕Projeto - Criando tela de Cadastro com JavaScript
 
-![gif](gif/gif_pica.gif)
+![](gif_pica.gif)
 
 ## ❤️Descrição
 
@@ -17,10 +17,22 @@ Estou documentando trabalhos para contar como nota dia 15/09. Aonde preciso docu
 
 ## 😘Funcionalidade
 
-- `Início`
-Como a imagem logo acima no README. --------------------------------------------
-- ``
-- `Contatos`
+- `Email`  
+- `Nome`  
+- `Senha`  
+---  
+- `DDD e telefone`  
+- `Data de nascimento`  
+- `CPF OU CNPJ`  
+---  
+- `CEP`  
+- `Endereço`  
+- `Número`  
+- `Complemento`  
+- `Bairro`  
+- `cidade`  
+- `Estado`  
+- `Ponto de Referência`  
 ### 💖Tecnologias utilizadas
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
