@@ -9,7 +9,7 @@
 
 # 💕Projeto - Criando tela de Cadastro com JavaScript
 
-![image](gif/gif_pica.gif)
+![gif](gif/gif_pica.gif)
 
 ## ❤️Descrição
 
