@@ -9,6 +9,8 @@
 
 # 💕Projeto - Criando tela de Cadastro com JavaScript
 
+![image](gif/gif_pica.gif)
+
 ## ❤️Descrição
 
 Estou documentando trabalhos para contar como nota dia 15/09. Aonde preciso documentar READMES nos repositórios já existentes.
